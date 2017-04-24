@@ -1,0 +1,7 @@
+01-Makefile.patch
+02-pcimodules.patch
+03-pci.ids.patch
+04-update-pciids.sh.patch
+07-697383-libpci.pc.in.patch
+lspci-Support-GEN4-speed-16GT-s.patch 
+2017-03-16.patch
