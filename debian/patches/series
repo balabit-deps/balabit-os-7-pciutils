@@ -5,3 +5,4 @@
 07-697383-libpci.pc.in.patch
 lspci-Support-GEN4-speed-16GT-s.patch 
 2017-03-16.patch
+08-update-2018-07-21-pciids.patch

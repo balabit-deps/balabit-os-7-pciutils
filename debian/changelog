@@ -1,3 +1,10 @@
+pciutils (1:3.5.2-1ubuntu1.1) bionic; urgency=medium
+
+  * d/p/08-update-2018-07-21-pciids.patch:
+    - Update pci.ids to version 2018-07-21. (LP: #1815212)
+
+ -- Eric <eric.desrochers@canonical.com>  Sun, 10 Feb 2019 18:25:12 +0000
+
 pciutils (1:3.5.2-1ubuntu1) artful; urgency=low
 
   * Merge from Debian unstable, remaining changes:
